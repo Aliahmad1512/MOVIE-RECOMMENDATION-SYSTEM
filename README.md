@@ -9,4 +9,4 @@ The Movie Database, also known as TMDB, is a database that contains detailed inf
 
 ## Dataset link : https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
-![app](https://user-images.githubusercontent.com/88396377/144170736-961f4722-83af-4246-89e4-1f6dc384ae76.PNG)
+![app](https://user-images.githubusercontent.com/88396377/144170825-96635daa-e1ca-42f0-af99-d855f570a343.PNG)
