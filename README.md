@@ -8,3 +8,5 @@ Content-based filtering methods are based on a description of the item and a pro
 The Movie Database, also known as TMDB, is a database that contains detailed information on over 500,000 movies. The Movies dataframe has links to the movie posters in it, but the vast majority of them are outdated and no longer work. In order to find the poster links, the tmdbsimple library, which acts as a Python wrapper for the TMDB API was used. The ID of the movie is all that it takes to obtain that movie's updated information. The TMDB website has a simple structure to its URLs, therefore getting the link to each movie's page involves taking the base site link and adding the id of the movie, a dash, and the movie title.
 
 ## Dataset link : https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+![app](https://user-images.githubusercontent.com/88396377/144170736-961f4722-83af-4246-89e4-1f6dc384ae76.PNG)
