@@ -7,6 +7,6 @@ The Movie Database, also known as TMDB, is a database that contains detailed inf
 
 Content-based filtering methods are based on a description of the item and a profile of the user's preferences. In this system, keywords are used to describe the items, and a user profile is built to indicate the type of item this user likes. In other words, these algorithms try to recommend items similar to those that a user liked in the past or is examining in the present.
 
-## Dataset link: https://www.kaggle.com/tmdb/tmdb-movie-metadata
+## Dataset link : https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 ![app](https://user-images.githubusercontent.com/88396377/144170825-96635daa-e1ca-42f0-af99-d855f570a343.PNG)
